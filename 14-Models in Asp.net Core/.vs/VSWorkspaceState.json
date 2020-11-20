@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\netcoreapp3.1",
+    "\\obj\\Debug\\netcoreapp3.1\\Razor",
+    "\\obj\\Debug\\netcoreapp3.1\\Razor\\Views",
+    "\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Home",
+    "\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Shared",
+    "\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Shared\\Component",
+    "\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Shared\\Component\\TopBooks",
+    "\\Repositores"
+  ],
+  "SelectedNode": "\\appsettings.Development.json",
+  "PreviewInSolutionExplorer": false
+}

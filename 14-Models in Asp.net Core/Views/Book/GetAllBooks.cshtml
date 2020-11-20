@@ -1,0 +1,25 @@
+﻿@{ 
+    ViewData["Title"] = "All Books";
+    
+}
+@using _14_Models_in_Asp.net_Core.Models;  
+
+@model IEnumerable<BookModel>
+
+
+<div class="container">
+    <h3 class="display-4">All Books</h3>
+    <div class="row">
+        @foreach (var books in Model)
+        {
+            <div class="col-md-4">
+                <partial name="_bookThumbnail" model="@books"/>
+                
+            </div>
+        }
+
+
+    </div>
+
+</div>
+
